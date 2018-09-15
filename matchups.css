@@ -1,0 +1,1640 @@
+/**GAMECENTER MATCHUPS*/
+
+/*49ERS*/
+
+.gc-matchupaway-sf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/49ers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-sf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #9B2743, rgba(0, 0, 0, 0)),
+url("http://www2.pictures.zimbio.com/gi/San+Francisco+49ers+v+Seattle+Seahawks+-7IlzRmub6yl.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-sf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/49ers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-sf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #9B2743, rgba(0, 0, 0, 0)),
+url("http://www2.pictures.zimbio.com/gi/San+Francisco+49ers+v+Seattle+Seahawks+-7IlzRmub6yl.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*ARI*/
+
+.gc-matchupaway-ari {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/cardinals.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-ari {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #9B2743, rgba(0, 0, 0, 0)),
+url("https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/7134717/0490979001449583941_filepicker.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-ari {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/cardinals.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-ari {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #9B2743, rgba(0, 0, 0, 0)),
+url("https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/7134717/0490979001449583941_filepicker.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*ATL*/
+
+.gc-matchupaway-atl {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/falcons.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-atl {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #A6192E, rgba(0, 0, 0, 0)),
+url("http://prod.static.redskins.clubs.nfl.com/assets/images/imported/WAS/centerpieces/2013-Centerpieces/landing-page-centerpieces/enemy-content/Falcons_tunnel.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-atl {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/falcons.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-atl {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #A6192E, rgba(0, 0, 0, 0)),
+url("http://prod.static.redskins.clubs.nfl.com/assets/images/imported/WAS/centerpieces/2013-Centerpieces/landing-page-centerpieces/enemy-content/Falcons_tunnel.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*BAL*/
+
+.gc-matchupaway-bal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/ravens.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-bal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #241773, rgba(0, 0, 0, 0)),
+url("http://www.baltimoreravens.com/assets/images/imported/mediacontent/~/media/7c7fdedb8cb74b88a456c0b12297bff7.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-bal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/ravens.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-bal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #241773, rgba(0, 0, 0, 0)),
+url("http://www.baltimoreravens.com/assets/images/imported/mediacontent/~/media/7c7fdedb8cb74b88a456c0b12297bff7.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*BUF*/
+
+.gc-matchupaway-buf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bills.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-buf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #00338D, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/16/files/2013/09/buffalo-bills-robert-woods-ej-manuel.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-buf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bills.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-buf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #00338D, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/16/files/2013/09/buffalo-bills-robert-woods-ej-manuel.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*CAR*/
+
+.gc-matchupaway-car {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/panthers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-car {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+url("http://www.charlotteobserver.com/sports/f2sqhw/picture39718932/ALTERNATES/FREE_640/Panthers%20Seahawks%20Football.JPG");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-car {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/panthers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-car {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #0085CA, rgba(0, 0, 0, 0)),
+url("http://www.charlotteobserver.com/sports/f2sqhw/picture39718932/ALTERNATES/FREE_640/Panthers%20Seahawks%20Football.JPG");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*CHI*/
+
+.gc-matchupaway-chi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bears.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-chi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #DC4405, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/60/files/2012/09/2458-bears_tunnel_Chris_Sweda__Tribune.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-chi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bears.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-chi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #051C2C, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/60/files/2012/09/2458-bears_tunnel_Chris_Sweda__Tribune.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*CIN*/
+
+.gc-matchupaway-cin {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bengals.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-cin {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+url("http://media.gettyimages.com/photos/tackle-eric-winston-of-the-cincinnati-bengals-and-teammates-huddle-up-picture-id839927270");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-cin {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bengals.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-cin {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #FC4C02, rgba(0, 0, 0, 0)),
+url("http://media.gettyimages.com/photos/tackle-eric-winston-of-the-cincinnati-bengals-and-teammates-huddle-up-picture-id839927270");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*CLE*/
+
+.gc-matchupaway-cle {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/browns.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-cle {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #382F2D, rgba(0, 0, 0, 0)),
+url("https://www.gannett-cdn.com/-mm-/25016ae8cbde9dd2e0ee49f459c205a496aafea8/c=0-0-2700-1526&r=x803&c=1600x800/local/-/media/2017/09/10/USATODAY/USATODAY/636406465932961356-USP-NFL-PITTSBURGH-STEELERS-AT-CLEVELAND-BROWNS-93667588.JPG");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-cle {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/browns.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-cle {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #EB3300, rgba(0, 0, 0, 0)),
+url("https://www.gannett-cdn.com/-mm-/25016ae8cbde9dd2e0ee49f459c205a496aafea8/c=0-0-2700-1526&r=x803&c=1600x800/local/-/media/2017/09/10/USATODAY/USATODAY/636406465932961356-USP-NFL-PITTSBURGH-STEELERS-AT-CLEVELAND-BROWNS-93667588.JPG");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*DAL*/
+
+.gc-matchupaway-dal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/cowboys.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-dal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #869397, rgba(0, 0, 0, 0)),
+url("https://theboysareback.files.wordpress.com/2013/09/2013-2014-dallas-cowboys-players-in-the-tunnel-prior-to-the-game-against-the-san-diego-chargers_.jpg?w=640&h=454");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-dal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/cowboys.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-dal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #041E42, rgba(0, 0, 0, 0)),
+url("https://theboysareback.files.wordpress.com/2013/09/2013-2014-dallas-cowboys-players-in-the-tunnel-prior-to-the-game-against-the-san-diego-chargers_.jpg?w=640&h=454");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*DEN*/
+
+.gc-matchupaway-den {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/broncos.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-den {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #FC4C02, rgba(0, 0, 0, 0)),
+url("https://theboysareback.files.wordpress.com/2013/09/2013-2014-dallas-cowboys-players-in-the-tunnel-prior-to-the-game-against-the-san-diego-chargers_.jpg?w=640&h=454");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-den {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/broncos.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-den {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+url("https://theboysareback.files.wordpress.com/2013/09/2013-2014-dallas-cowboys-players-in-the-tunnel-prior-to-the-game-against-the-san-diego-chargers_.jpg?w=640&h=454");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*DET*/
+
+.gc-matchupaway-det {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/lions.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-det {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/53/files/2014/08/dominic-raiola-brandon-pettigrew-nfl-chicago-bears-detroit-lions.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-det {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/lions.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-det {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #0069B1, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/53/files/2014/08/dominic-raiola-brandon-pettigrew-nfl-chicago-bears-detroit-lions.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*GB*/
+
+.gc-matchupaway-gb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/packers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-gb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+url("http://img.bleacherreport.net/img/slides/photos/003/768/723/4b3098a60b86fd9e4947cff87c4ae10c_crop_north.jpg?w=630&h=420&q=75 ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-gb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/packers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-gb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #175E33, rgba(0, 0, 0, 0)),
+url("http://img.bleacherreport.net/img/slides/photos/003/768/723/4b3098a60b86fd9e4947cff87c4ae10c_crop_north.jpg?w=630&h=420&q=75");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*HOU*/
+
+.gc-matchupaway-hou {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/texans.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-hou {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #A6192E, rgba(0, 0, 0, 0)),
+url("https://s3media.247sports.com/Uploads/Assets/391/175/6_4175391.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-hou {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/texans.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-hou {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #091F2C, rgba(0, 0, 0, 0)),
+url("https://s3media.247sports.com/Uploads/Assets/391/175/6_4175391.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*IND*/
+
+.gc-matchupaway-ind {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/colts.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-ind {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #001489, rgba(0, 0, 0, 0)),
+url("http://www.1070thefan.com/sites/g/files/exi666/f/styles/large_730/public/article-images-featured/172056-176436.jpg?itok=mFVGj4AJ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-ind {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/colts.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-ind {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #001489, rgba(0, 0, 0, 0)),
+url("http://www.1070thefan.com/sites/g/files/exi666/f/styles/large_730/public/article-images-featured/172056-176436.jpg?itok=mFVGj4AJ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*JAC*/
+
+.gc-matchupaway-jac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/jaguars.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-jac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #006073, rgba(0, 0, 0, 0)),
+url("http://i.dailymail.co.uk/i/pix/2014/11/09/1415562288246_wps_75_LONDON_ENGLAND_NOVEMBER_0.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-jac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/jaguars.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-jac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #101820, rgba(0, 0, 0, 0)),
+url("http://i.dailymail.co.uk/i/pix/2014/11/09/1415562288246_wps_75_LONDON_ENGLAND_NOVEMBER_0.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*KC*/
+
+.gc-matchupaway-kc {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/chiefs.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-kc {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #C8102E, rgba(0, 0, 0, 0)),
+url("https://s-media-cache-ak0.pinimg.com/736x/99/cd/42/99cd4250d4982ec5cecb907af0d11962.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-kc {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/chiefs.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-kc {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #C8102E, rgba(0, 0, 0, 0)),
+url("https://s-media-cache-ak0.pinimg.com/736x/99/cd/42/99cd4250d4982ec5cecb907af0d11962.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*LAC*/
+
+.gc-matchupaway-lac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/chargers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-lac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+url("https://sidelinechamp.files.wordpress.com/2015/11/chargers-top-10-feature-pic.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-lac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/chargers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-lac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #0072CE, rgba(0, 0, 0, 0)),
+url("https://sidelinechamp.files.wordpress.com/2015/11/chargers-top-10-feature-pic.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*LAR*/
+
+.gc-matchupaway-lar {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/rams.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-lar {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #002244, rgba(0, 0, 0, 0)),
+url("http://www.trbimg.com/img-5695ae3c/turbine/la-sp-nfl-meet-the-los-angeles-rams-20160110 ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-lar {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/rams.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-lar {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #002244, rgba(0, 0, 0, 0)),
+url("http://www.trbimg.com/img-5695ae3c/turbine/la-sp-nfl-meet-the-los-angeles-rams-20160110 ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*MIA*/
+
+.gc-matchupaway-mia {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/dolphins.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-mia {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #F58220, rgba(0, 0, 0, 0)),
+url("https://cmgpbpdailydolphin.files.wordpress.com/2015/12/120615-spt-dolphins-ae-35.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-mia {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/dolphins.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-mia {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #008E97, rgba(0, 0, 0, 0)),
+url("https://cmgpbpdailydolphin.files.wordpress.com/2015/12/120615-spt-dolphins-ae-35.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*MIN*/
+
+.gc-matchupaway-min {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/vikings.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-min {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+url("http://profootballspot.com/uploads/monthly_2015_09/ca63d45861e886d749b114b54e241beb.jpg.85d99485dd0558b8a425327699ed8b25.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-min {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/vikings.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-min {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #512D6D, rgba(0, 0, 0, 0)),
+url("http://profootballspot.com/uploads/monthly_2015_09/ca63d45861e886d749b114b54e241beb.jpg.85d99485dd0558b8a425327699ed8b25.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*NE*/
+
+.gc-matchupaway-ne {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/patriots.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-ne {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+url("http://www1.pictures.zimbio.com/gi/Tom+Brady+New+England+Patriots+v+Pittsburgh+9vqHi_NMwIll.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-ne {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/patriots.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-ne {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+url("http://www1.pictures.zimbio.com/gi/Tom+Brady+New+England+Patriots+v+Pittsburgh+9vqHi_NMwIll.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*NO*/
+
+.gc-matchupaway-no {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/saints.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-no {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+url("http://media.nola.com/saints_impact/photo/saints-brees-huddlejpg-6ad6eff9572e5b2f_large.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-no {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/saints.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-no {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #A28D5B, rgba(0, 0, 0, 0)),
+url("http://media.nola.com/saints_impact/photo/saints-brees-huddlejpg-6ad6eff9572e5b2f_large.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*NYG*/
+
+.gc-matchupaway-nyg {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/giants.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-nyg {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+url("http://www1.pictures.zimbio.com/gi/New+York+Giants+v+Washington+Redskins+NyI0Kfg34THl.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-nyg {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/giants.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-nyg {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #001E62, rgba(0, 0, 0, 0)),
+url("http://www1.pictures.zimbio.com/gi/New+York+Giants+v+Washington+Redskins+NyI0Kfg34THl.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*NYJ*/
+
+.gc-matchupaway-nyj {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/jets.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-nyj {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #0C371D, rgba(0, 0, 0, 0)),
+url("http://s.newsweek.com/sites/www.newsweek.com/files/styles/embed-lg/public/2014/12/21/new-york-jets.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-nyj {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/jets.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-nyj {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #0C371D, rgba(0, 0, 0, 0)),
+url("http://s.newsweek.com/sites/www.newsweek.com/files/styles/embed-lg/public/2014/12/21/new-york-jets.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*OAK*/
+
+.gc-matchupaway-oak {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/raiders.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-oak {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #A5ACAF, rgba(0, 0, 0, 0)),
+url("http://www.rantsports.com/nfl/files/2014/11/carr.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-oak {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/raiders.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-oak {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #101820, rgba(0, 0, 0, 0)),
+url("http://www.rantsports.com/nfl/files/2014/11/carr.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*PHI*/
+
+.gc-matchupaway-phi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/eagles.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-phi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/09/6880264.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-phi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/eagles.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-phi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #004851, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/09/6880264.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*PIT*/
+
+.gc-matchupaway-pit {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/steelers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-pit {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+url("http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wtae/30539682-30539682.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-pit {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/steelers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-pit {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #FFB81C, rgba(0, 0, 0, 0)),
+url("http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wtae/30539682-30539682.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*SEA*/
+
+.gc-matchupaway-sea {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/seahawks.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-sea {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #4DFF00, rgba(0, 0, 0, 0)),
+url("http://www.gannett-cdn.com/-mm-/c0371bcff746c5750375c7f5d128b745bc95afe1/c=0-443-4081-2749&r=x1683&c=3200x1680/local/-/media/2015/12/24/Salem/Salem/635865804252207137-Browns-Seahawks-Footb-Kirk.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-sea {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/seahawks.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-sea {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #001433, rgba(0, 0, 0, 0)),
+url("http://www.gannett-cdn.com/-mm-/c0371bcff746c5750375c7f5d128b745bc95afe1/c=0-443-4081-2749&r=x1683&c=3200x1680/local/-/media/2015/12/24/Salem/Salem/635865804252207137-Browns-Seahawks-Footb-Kirk.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*TB*/
+
+.gc-matchupaway-tb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/buccaneers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-tb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #FF8200, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/07/6906496.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-tb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/buccaneers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-tb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #C8102E, rgba(0, 0, 0, 0)),
+url("http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/07/6906496.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*TEN*/
+
+.gc-matchupaway-ten {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/titans.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-ten {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #4B92DB, rgba(0, 0, 0, 0)),
+url("https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/v.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-ten {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/titans.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-ten {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+url("https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/v.jpg ");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*WAS*/
+
+.gc-matchupaway-was {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/redskins.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-was {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -20px;
+    background: linear-gradient(-90deg, #FFCD00, rgba(0, 0, 0, 0)),
+url("http://www.redskins.com/assets/images/imported/WAS/photos/2016-Photos/2016-Articles-615x255/Team_tunnel_615.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.gc-matchuphome-was {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/redskins.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-home-bg-was {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 160px;
+    background: linear-gradient(90deg, #862633, rgba(0, 0, 0, 0)),
+url("http://www.redskins.com/assets/images/imported/WAS/photos/2016-Photos/2016-Articles-615x255/Team_tunnel_615.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*OTHERS*/
+.header-matchup {
+    height: 200px;
+}
+
+.team-name-bar-away-matchup {
+    width: 478px;
+    color: white;
+    font-family: dlsanscondmedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: -188px;
+    left: -20px;
+}
+
+.team-name-bar-home-matchup {
+    width: 478px;
+    color: #fff;
+    font-family: dlsanscondmedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: -188px;
+    right: 160px;
+}
+
+.matchup-at {
+    background: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/game-details-at.png);
+    width: 75px;
+    background-repeat: no-repeat;
+    height: 50px;
+    position: relative;
+    top: -140px;
+    left: -200px;
+}

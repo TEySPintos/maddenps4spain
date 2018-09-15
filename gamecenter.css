@@ -1,0 +1,4135 @@
+/*49ERS*/
+
+#teamstats .recap-away-bg-sf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #896C4C, rgba(0, 0, 0, 0)),
+    url("https://ninernoise.com/wp-content/blogs.dir/42/files/2015/12/torrey-smith-nfl-san-francisco-49ers-chicago-bears.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-sf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #896C4C, rgba(0, 0, 0, 0)),
+    url("https://ninernoise.com/wp-content/blogs.dir/42/files/2015/12/torrey-smith-nfl-san-francisco-49ers-chicago-bears.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-sf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #9B2743, rgba(0, 0, 0, 0)),
+    url("https://cbsminnesota.files.wordpress.com/2013/02/160613798_10.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-sf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/49ers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-sf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/49ers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-sf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/49ers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-sf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/49ers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-sf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/49ers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-sf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #896C4C, rgba(0, 0, 0, 0)),
+    url("https://ninernoise.com/wp-content/blogs.dir/42/files/2015/12/torrey-smith-nfl-san-francisco-49ers-chicago-bears.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-sf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #9B2743, rgba(0, 0, 0, 0)),
+    url("https://cbsminnesota.files.wordpress.com/2013/02/160613798_10.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*ARI*/
+
+#teamstats .recap-away-bg-ari {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #9B2743, rgba(0, 0, 0, 0)),
+    url("http://nfasl.spruz.com/gfile/75r4!-!JEHJEG!-!zrzor45!-!LJPKNQQG-JJSJ-HHMR-NNJR-EPLFJOMGLIMD!-!72y1nq/83ac3ec0-dcb6-4b01-9b1c-0687b4966238.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-ari {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #9B2743, rgba(0, 0, 0, 0)),
+    url("http://nfasl.spruz.com/gfile/75r4!-!JEHJEG!-!zrzor45!-!LJPKNQQG-JJSJ-HHMR-NNJR-EPLFJOMGLIMD!-!72y1nq/83ac3ec0-dcb6-4b01-9b1c-0687b4966238.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-ari {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #9B2743, rgba(0, 0, 0, 0)),
+    url("http://mit.zenfs.com/217/2011/12/Cards-huddle.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-ari {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/cardinals.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-ari {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/cardinals.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-ari {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/cardinals.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-ari {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/cardinals.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-ari {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/cardinals.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-ari {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #9B2743, rgba(0, 0, 0, 0)),
+    url("http://nfasl.spruz.com/gfile/75r4!-!JEHJEG!-!zrzor45!-!LJPKNQQG-JJSJ-HHMR-NNJR-EPLFJOMGLIMD!-!72y1nq/83ac3ec0-dcb6-4b01-9b1c-0687b4966238.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-ari {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #9B2743, rgba(0, 0, 0, 0)),
+    url("http://mit.zenfs.com/217/2011/12/Cards-huddle.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*ATL*/
+
+#teamstats .recap-away-bg-atl {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://cdn.inquisitr.com/wp-content/uploads/2017/01/Atlanta-Falcons-Huddle.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-atl {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://cdn.inquisitr.com/wp-content/uploads/2017/01/Atlanta-Falcons-Huddle.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-atl {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #A6192E, rgba(0, 0, 0, 0)),
+    url("http://prod.static.falcons.clubs.nfl.com//assets/images/imported/ATL/photos/2014PHOTOS/CURRENT_PLAYERS/Ryan_Matt/140627_Ryan_TeamCenterpiece.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-atl {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/falcons.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-atl {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/falcons.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-atl {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/falcons.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-atl {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/falcons.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-atl {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/falcons.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-atl {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://cdn.inquisitr.com/wp-content/uploads/2017/01/Atlanta-Falcons-Huddle.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-atl {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #A6192E, rgba(0, 0, 0, 0)),
+    url("http://prod.static.falcons.clubs.nfl.com//assets/images/imported/ATL/photos/2014PHOTOS/CURRENT_PLAYERS/Ryan_Matt/140627_Ryan_TeamCenterpiece.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*BAL*/
+
+#teamstats .recap-away-bg-bal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://ebonybird.com/wp-content/uploads/usat-images/2017/05/9775926-nfl-baltimore-ravens-at-pittsburgh-steelers.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-bal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://ebonybird.com/wp-content/uploads/usat-images/2017/05/9775926-nfl-baltimore-ravens-at-pittsburgh-steelers.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-bal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #241773, rgba(0, 0, 0, 0)),
+    url("http://nflstreaming.net/wp-content/uploads/2013/06/baltimore-ravens-team.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-bal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/ravens.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-bal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/ravens.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-bal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/ravens.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-bal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/ravens.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-bal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/ravens.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-bal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://ebonybird.com/wp-content/uploads/usat-images/2017/05/9775926-nfl-baltimore-ravens-at-pittsburgh-steelers.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-bal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #241773, rgba(0, 0, 0, 0)),
+    url("http://nflstreaming.net/wp-content/uploads/2013/06/baltimore-ravens-team.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*BUF*/
+
+#teamstats .recap-away-bg-buf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/centerpiece-2012/november-2012/depth-chart-cp.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-buf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/centerpiece-2012/november-2012/depth-chart-cp.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-buf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #00338D, rgba(0, 0, 0, 0)),
+    url("http://www.buffalobills.com/assets/images/imported/BUF/photos/article-assets/Story-Photos/2016-01/0107-season-review-info.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-buf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bills.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-buf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bills.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-buf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bills.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-buf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bills.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-buf {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bills.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-buf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/centerpiece-2012/november-2012/depth-chart-cp.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-buf {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #00338D, rgba(0, 0, 0, 0)),
+    url("http://www.buffalobills.com/assets/images/imported/BUF/photos/article-assets/Story-Photos/2016-01/0107-season-review-info.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*CAR*/
+
+#teamstats .recap-away-bg-car {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://sports.cbsimg.net/images/visual/whatshot/0112_Panthers_inside.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-car {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://sports.cbsimg.net/images/visual/whatshot/0112_Panthers_inside.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-car {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #0085CA, rgba(0, 0, 0, 0)),
+    url("http://static5.businessinsider.com/image/566eda8572f2c151028b55b9/no-team-in-the-world-is-having-more-fun-right-now-than-the-carolina-panthers.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-car {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/panthers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-car {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/panthers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-car {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/panthers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-car {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/panthers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-car {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/panthers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-car {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://sports.cbsimg.net/images/visual/whatshot/0112_Panthers_inside.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-car {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #0085CA, rgba(0, 0, 0, 0)),
+    url("http://static5.businessinsider.com/image/566eda8572f2c151028b55b9/no-team-in-the-world-is-having-more-fun-right-now-than-the-carolina-panthers.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*CHI*/
+
+#teamstats .recap-away-bg-chi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #DC4405, rgba(0, 0, 0, 0)),
+    url("https://beargoggleson.com/wp-content/blogs.dir/60/files/2014/07/roberto-garza-nfl-chicago-bears-detroit-lions.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-chi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #DC4405, rgba(0, 0, 0, 0)),
+    url("https://beargoggleson.com/wp-content/blogs.dir/60/files/2014/07/roberto-garza-nfl-chicago-bears-detroit-lions.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-chi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #051C2C, rgba(0, 0, 0, 0)),
+    url("https://nflspinzone.com/wp-content/uploads/getty-images/2017/08/829533456-denver-broncos-v-chicago-bears.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-chi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bears.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-chi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bears.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-chi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bears.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-chi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bears.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-chi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bears.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-chi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #DC4405, rgba(0, 0, 0, 0)),
+    url("https://beargoggleson.com/wp-content/blogs.dir/60/files/2014/07/roberto-garza-nfl-chicago-bears-detroit-lions.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-chi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #051C2C, rgba(0, 0, 0, 0)),
+    url("https://nflspinzone.com/wp-content/uploads/getty-images/2017/08/829533456-denver-broncos-v-chicago-bears.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*CIN*/
+
+#teamstats .recap-away-bg-cin {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://nflspinzone.com/wp-content/uploads/getty-images/2017/08/839960632-cincinnati-bengals-v-washington-redskins.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-cin {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://nflspinzone.com/wp-content/uploads/getty-images/2017/08/839960632-cincinnati-bengals-v-washington-redskins.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-cin {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #FC4C02, rgba(0, 0, 0, 0)),
+    url("https://athlonsports.com/sites/athlonsports.com/files/styles/article_top_img/public/Cincinnati_Bengals_huddle_2015_3.jpg?itok=OwYuj_5K");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-cin {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bengals.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-cin {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bengals.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-cin {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bengals.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-cin {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/bengals.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-cin {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/bengals.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-cin {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://nflspinzone.com/wp-content/uploads/getty-images/2017/08/839960632-cincinnati-bengals-v-washington-redskins.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-cin {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #FC4C02, rgba(0, 0, 0, 0)),
+    url("https://athlonsports.com/sites/athlonsports.com/files/styles/article_top_img/public/Cincinnati_Bengals_huddle_2015_3.jpg?itok=OwYuj_5K");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*CLE*/
+
+#teamstats .recap-away-bg-cle {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #382F2D, rgba(0, 0, 0, 0)),
+    url("http://www.sportsbettingexperts.com/wp-content/uploads/2016/11/Cleveland-Browns.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-cle {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #382F2D, rgba(0, 0, 0, 0)),
+    url("http://www.sportsbettingexperts.com/wp-content/uploads/2016/11/Cleveland-Browns.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-cle {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #EB3300, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/thumbor/KWDcSeJjAuFAmqmSuoEts9Hi8p8=/335x881:3073x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/56381263/839663138.0.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-cle {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/browns.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-cle {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/browns.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-cle {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/browns.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-cle {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/browns.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-cle {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/browns.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-cle {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #382F2D, rgba(0, 0, 0, 0)),
+    url("http://www.sportsbettingexperts.com/wp-content/uploads/2016/11/Cleveland-Browns.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-cle {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #EB3300, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/thumbor/KWDcSeJjAuFAmqmSuoEts9Hi8p8=/335x881:3073x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/56381263/839663138.0.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*DAL*/
+
+#teamstats .recap-away-bg-dal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #869397, rgba(0, 0, 0, 0)),
+    url("https://thelandryhat.com/wp-content/blogs.dir/129/files/2014/12/tony-romo-nfl-philadelphia-eagles-dallas-cowboys7.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-dal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #869397, rgba(0, 0, 0, 0)),
+    url("https://thelandryhat.com/wp-content/blogs.dir/129/files/2014/12/tony-romo-nfl-philadelphia-eagles-dallas-cowboys7.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-dal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #041E42, rgba(0, 0, 0, 0)),
+    url("http://www.dallascowboys.com/sites/dallascowboys.com/files/styles/borealis_article_image_respondlarge/public/field/image/team_hero.jpg?itok=hFQEzs1Q&timestamp=1474495091");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-dal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/cowboys.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-dal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/cowboys.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-dal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/cowboys.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-dal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/cowboys.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-dal {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/cowboys.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-dal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #869397, rgba(0, 0, 0, 0)),
+    url("https://thelandryhat.com/wp-content/blogs.dir/129/files/2014/12/tony-romo-nfl-philadelphia-eagles-dallas-cowboys7.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-dal {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #041E42, rgba(0, 0, 0, 0)),
+    url("http://www.dallascowboys.com/sites/dallascowboys.com/files/styles/borealis_article_image_respondlarge/public/field/image/team_hero.jpg?itok=hFQEzs1Q&timestamp=1474495091");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*DEN*/
+
+#teamstats .recap-away-bg-den {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #FC4C02, rgba(0, 0, 0, 0)),
+    url("https://i.ytimg.com/vi/0t-sKSD9AWI/maxresdefault.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-den {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #FC4C02, rgba(0, 0, 0, 0)),
+    url("https://i.ytimg.com/vi/0t-sKSD9AWI/maxresdefault.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-den {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+    url("https://www.cheatsheet.com/wp-content/uploads/2016/01/Denver-Broncos_Christian-Petersen_Getty-Images.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-den {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/broncos.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-den {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/broncos.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-den {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/broncos.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-den {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/broncos.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-den {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/broncos.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-den {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #FC4C02, rgba(0, 0, 0, 0)),
+    url("https://i.ytimg.com/vi/0t-sKSD9AWI/maxresdefault.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-den {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+    url("https://www.cheatsheet.com/wp-content/uploads/2016/01/Denver-Broncos_Christian-Petersen_Getty-Images.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*DET*/
+
+#teamstats .recap-away-bg-det {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("http://www.detroitlions.com/assets/images/imported/DET/photos/clubimages/2014/08-August/templionsatraiders-081514-12--nfl_mezz_1280_1024.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-det {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("http://www.detroitlions.com/assets/images/imported/DET/photos/clubimages/2014/08-August/templionsatraiders-081514-12--nfl_mezz_1280_1024.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-det {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #0069B1, rgba(0, 0, 0, 0)),
+    url("http://data.mstarsnews.musictimes.com/data/images/full/35241/detroit-lions-ready-for-atlanta-falcons-at-wembley-stadium.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-det {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/lions.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-det {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/lions.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-det {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/lions.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-det {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/lions.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-det {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/lions.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-det {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("http://www.detroitlions.com/assets/images/imported/DET/photos/clubimages/2014/08-August/templionsatraiders-081514-12--nfl_mezz_1280_1024.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-det {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #0069B1, rgba(0, 0, 0, 0)),
+    url("http://data.mstarsnews.musictimes.com/data/images/full/35241/detroit-lions-ready-for-atlanta-falcons-at-wembley-stadium.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*GB*/
+
+#teamstats .recap-away-bg-gb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("http://www.packers.com/assets/images/imported/GB/photos/article_images/2016/04-april/160414-schedule-release-PR-950.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-gb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("http://www.packers.com/assets/images/imported/GB/photos/article_images/2016/04-april/160414-schedule-release-PR-950.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-gb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #175E33, rgba(0, 0, 0, 0)),
+    url("http://prod.static.packers.clubs.nfl.com/assets/images/fan-zone/wallpaper-2010-games/21-steelers/110206-steelers-2-16x10.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-gb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/packers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-gb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/packers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-gb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/packers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-gb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/packers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-gb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/packers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-gb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("http://www.packers.com/assets/images/imported/GB/photos/article_images/2016/04-april/160414-schedule-release-PR-950.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-gb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #175E33, rgba(0, 0, 0, 0)),
+    url("http://prod.static.packers.clubs.nfl.com/assets/images/fan-zone/wallpaper-2010-games/21-steelers/110206-steelers-2-16x10.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*HOU*/
+
+#teamstats .recap-away-bg-hou {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #A6192E, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/thumbor/CVi3qxNFlNBLjC8ot10yuPQw2oY=/0x0:3597x2460/1200x800/filters:focal(1512x943:2086x1517)/cdn.vox-cdn.com/uploads/chorus_image/image/55671905/usa_today_9008031.0.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-hou {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #A6192E, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/thumbor/CVi3qxNFlNBLjC8ot10yuPQw2oY=/0x0:3597x2460/1200x800/filters:focal(1512x943:2086x1517)/cdn.vox-cdn.com/uploads/chorus_image/image/55671905/usa_today_9008031.0.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-hou {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #091F2C, rgba(0, 0, 0, 0)),
+    url("http://www.nflhispano.com/wp-content/uploads/2016/06/texans.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-hou {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/texans.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-hou {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/texans.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-hou {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/texans.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-hou {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/texans.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-hou {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/texans.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-hou {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #A6192E, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/thumbor/CVi3qxNFlNBLjC8ot10yuPQw2oY=/0x0:3597x2460/1200x800/filters:focal(1512x943:2086x1517)/cdn.vox-cdn.com/uploads/chorus_image/image/55671905/usa_today_9008031.0.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-hou {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #091F2C, rgba(0, 0, 0, 0)),
+    url("http://www.nflhispano.com/wp-content/uploads/2016/06/texans.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*IND*/
+
+#teamstats .recap-away-bg-ind {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #001489, rgba(0, 0, 0, 0)),
+    url("http://nflstreaming.net/wp-content/uploads/2013/06/Indianapolis-Colts-2013-Team.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-ind {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #001489, rgba(0, 0, 0, 0)),
+    url("http://nflstreaming.net/wp-content/uploads/2013/06/Indianapolis-Colts-2013-Team.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-ind {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #001489, rgba(0, 0, 0, 0)),
+    url("http://www.rantsports.com/nfl/files/2013/10/Indianapolis-Colts-Antoine-Bethea%E2%80%99s-Leadership-Could-Take-Team-to-New-Heights.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-ind {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/colts.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-ind {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/colts.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-ind {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/colts.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-ind {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/colts.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-ind {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/colts.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-ind {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #001489, rgba(0, 0, 0, 0)),
+    url("http://nflstreaming.net/wp-content/uploads/2013/06/Indianapolis-Colts-2013-Team.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-ind {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #001489, rgba(0, 0, 0, 0)),
+    url("http://www.rantsports.com/nfl/files/2013/10/Indianapolis-Colts-Antoine-Bethea%E2%80%99s-Leadership-Could-Take-Team-to-New-Heights.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*JAC*/
+
+#teamstats .recap-away-bg-jac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #006073, rgba(0, 0, 0, 0)),
+    url("http://news.meridianbet.com/wordpress/wp-content/uploads/2014/08/jaguars.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-jac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #006073, rgba(0, 0, 0, 0)),
+    url("http://news.meridianbet.com/wordpress/wp-content/uploads/2014/08/jaguars.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-jac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://www.cheatsheet.com/wp-content/uploads/2016/03/Blake-Bortles_Wesley-Hitt_Getty-Images.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-jac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/jaguars.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-jac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/jaguars.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-jac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/jaguars.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-jac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/jaguars.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-jac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/jaguars.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-jac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #006073, rgba(0, 0, 0, 0)),
+    url("http://news.meridianbet.com/wordpress/wp-content/uploads/2014/08/jaguars.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-jac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://www.cheatsheet.com/wp-content/uploads/2016/03/Blake-Bortles_Wesley-Hitt_Getty-Images.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*KC*/
+
+#teamstats .recap-away-bg-kc {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://img.wennermedia.com/social/rs-kansas-city-chiefs-7f1e672b-f12f-4773-bac8-9e9d545633f2.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-kc {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://img.wennermedia.com/social/rs-kansas-city-chiefs-7f1e672b-f12f-4773-bac8-9e9d545633f2.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-kc {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://prod.static.chiefs.clubs.nfl.com//assets/images/imported/KC/022817-BerryThumb.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-kc {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/chiefs.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-kc {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/chiefs.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-kc {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/chiefs.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-kc {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/chiefs.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-kc {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/chiefs.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-kc {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://img.wennermedia.com/social/rs-kansas-city-chiefs-7f1e672b-f12f-4773-bac8-9e9d545633f2.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-kc {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://prod.static.chiefs.clubs.nfl.com//assets/images/imported/KC/022817-BerryThumb.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*LAC*/
+
+#teamstats .recap-away-bg-lac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("http://www.profootballhof.com/assets/1/25/DimTeamHistory/Los-Angeles-Chargers-1.jpg?68063");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-lac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("http://www.profootballhof.com/assets/1/25/DimTeamHistory/Los-Angeles-Chargers-1.jpg?68063");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-lac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #0072CE, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/uploads/chorus_asset/file/7693815/9755841.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-lac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/chargers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-lac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/chargers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-lac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/chargers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-lac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/chargers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-lac {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/chargers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-lac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("http://www.profootballhof.com/assets/1/25/DimTeamHistory/Los-Angeles-Chargers-1.jpg?68063");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-lac {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #0072CE, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/uploads/chorus_asset/file/7693815/9755841.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*LAR*/
+
+#teamstats .recap-away-bg-lar {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #002244, rgba(0, 0, 0, 0)),
+    url("https://ramblinfan.com/wp-content/uploads/usat-images/2016/04/9782566-nfl-arizona-cardinals-at-los-angeles-rams.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-lar {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #002244, rgba(0, 0, 0, 0)),
+    url("https://ramblinfan.com/wp-content/uploads/usat-images/2016/04/9782566-nfl-arizona-cardinals-at-los-angeles-rams.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-lar {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #002244, rgba(0, 0, 0, 0)),
+    url("https://usatramswire.files.wordpress.com/2016/09/ramsteam2-e1474598745857.jpg?w=1000&h=600&crop=1");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-lar {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/rams.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-lar {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/rams.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-lar {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/rams.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-lar {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/rams.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-lar {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/rams.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-lar {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #002244, rgba(0, 0, 0, 0)),
+    url("https://ramblinfan.com/wp-content/uploads/usat-images/2016/04/9782566-nfl-arizona-cardinals-at-los-angeles-rams.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-lar {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #002244, rgba(0, 0, 0, 0)),
+    url("https://usatramswire.files.wordpress.com/2016/09/ramsteam2-e1474598745857.jpg?w=1000&h=600&crop=1");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*MIA*/
+
+#teamstats .recap-away-bg-mia {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #F58220, rgba(0, 0, 0, 0)),
+    url("http://nfasl.spruz.com/gfile/75r4!-!JEHJEG!-!zrzor45!-!LJPKNQQG-JJSJ-HHMR-NNJR-EPLFJOMGLIMD!-!72y1nq/hi-res-183447413-ryan-tannehill-of-the-miami-dolphins-gets-ready-to-take_crop_650.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-mia {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #F58220, rgba(0, 0, 0, 0)),
+    url("http://nfasl.spruz.com/gfile/75r4!-!JEHJEG!-!zrzor45!-!LJPKNQQG-JJSJ-HHMR-NNJR-EPLFJOMGLIMD!-!72y1nq/hi-res-183447413-ryan-tannehill-of-the-miami-dolphins-gets-ready-to-take_crop_650.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-mia {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #008E97, rgba(0, 0, 0, 0)),
+    url("https://nflspinzone.com/wp-content/uploads/getty-images/2017/07/630769120-new-england-patriots-v-miami-dolphins.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-mia {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/dolphins.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-mia {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/dolphins.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-mia {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/dolphins.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-mia {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/dolphins.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-mia {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/dolphins.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-mia {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #F58220, rgba(0, 0, 0, 0)),
+    url("http://nfasl.spruz.com/gfile/75r4!-!JEHJEG!-!zrzor45!-!LJPKNQQG-JJSJ-HHMR-NNJR-EPLFJOMGLIMD!-!72y1nq/hi-res-183447413-ryan-tannehill-of-the-miami-dolphins-gets-ready-to-take_crop_650.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-mia {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #008E97, rgba(0, 0, 0, 0)),
+    url("https://nflspinzone.com/wp-content/uploads/getty-images/2017/07/630769120-new-england-patriots-v-miami-dolphins.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*MIN*/
+
+#teamstats .recap-away-bg-min {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("https://s3media.247sports.com/Uploads/Assets/176/466/6_5466176.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-min {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("https://s3media.247sports.com/Uploads/Assets/176/466/6_5466176.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-min {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #512D6D, rgba(0, 0, 0, 0)),
+    url("http://gpsports.com/wp-content/uploads/2013/08/Vikings1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-min {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/vikings.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-min {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/vikings.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-min {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/vikings.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-min {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/vikings.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-min {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/vikings.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-min {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("https://s3media.247sports.com/Uploads/Assets/176/466/6_5466176.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-min {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #512D6D, rgba(0, 0, 0, 0)),
+    url("http://gpsports.com/wp-content/uploads/2013/08/Vikings1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*NE*/
+
+#teamstats .recap-away-bg-ne {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("https://athlonsports.com/sites/athlonsports.com/files/styles/article_top_img/public/NewEnglandPatriots_huddle_2016_5.jpg?itok=T6B0PTSg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-ne {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("https://athlonsports.com/sites/athlonsports.com/files/styles/article_top_img/public/NewEnglandPatriots_huddle_2016_5.jpg?itok=T6B0PTSg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-ne {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+    url("http://www.frsportsnews.com/wp-content/uploads/2015/11/new-england-patriots-090815-getty-ftrjpg_1m2u7jsosks7s1riphay6wdpxv.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-ne {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/patriots.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-ne {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/patriots.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-ne {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/patriots.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-ne {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/patriots.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-ne {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/patriots.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-ne {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("https://athlonsports.com/sites/athlonsports.com/files/styles/article_top_img/public/NewEnglandPatriots_huddle_2016_5.jpg?itok=T6B0PTSg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-ne {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+    url("http://www.frsportsnews.com/wp-content/uploads/2015/11/new-england-patriots-090815-getty-ftrjpg_1m2u7jsosks7s1riphay6wdpxv.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*NO*/
+
+#teamstats .recap-away-bg-no {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://usatftw.files.wordpress.com/2014/01/usatsi_7654534.jpg?w=1000&h=600&crop=1");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-no {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://usatftw.files.wordpress.com/2014/01/usatsi_7654534.jpg?w=1000&h=600&crop=1");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-no {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #A28D5B, rgba(0, 0, 0, 0)),
+    url("http://media.nola.com/saints_impact/photo/drew-brees-huddlejpg-34be35e266f9d855_large.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-no {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/saints.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-no {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/saints.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-no {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/saints.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-no {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/saints.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-no {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/saints.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-no {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://usatftw.files.wordpress.com/2014/01/usatsi_7654534.jpg?w=1000&h=600&crop=1");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-no {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #A28D5B, rgba(0, 0, 0, 0)),
+    url("http://media.nola.com/saints_impact/photo/drew-brees-huddlejpg-34be35e266f9d855_large.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*NYG*/
+
+#teamstats .recap-away-bg-nyg {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("http://www.nflhispano.com/wp-content/uploads/2016/06/giants_huddle.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-nyg {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("http://www.nflhispano.com/wp-content/uploads/2016/06/giants_huddle.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-nyg {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #001E62, rgba(0, 0, 0, 0)),
+    url("http://prod.static.giants.clubs.nfl.com/assets/images/imported/NYG/photos/clubimages/2016/08-August/temprun-gallery--nfl_mezz_1280_1024.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-nyg {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/giants.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-nyg {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/giants.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-nyg {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/giants.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-nyg {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/giants.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-nyg {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/giants.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-nyg {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #A2AAAD, rgba(0, 0, 0, 0)),
+    url("http://www.nflhispano.com/wp-content/uploads/2016/06/giants_huddle.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-nyg {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #001E62, rgba(0, 0, 0, 0)),
+    url("http://prod.static.giants.clubs.nfl.com/assets/images/imported/NYG/photos/clubimages/2016/08-August/temprun-gallery--nfl_mezz_1280_1024.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*NYJ*/
+
+#teamstats .recap-away-bg-nyj {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #0C371D, rgba(0, 0, 0, 0)),
+    url("http://a.espncdn.com/photo/2012/0909/ny_jets_bills_10.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-nyj {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #0C371D, rgba(0, 0, 0, 0)),
+    url("http://a.espncdn.com/photo/2012/0909/ny_jets_bills_10.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-nyj {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #0C371D, rgba(0, 0, 0, 0)),
+    url("https://images.forbes.com/media/lists/30/2009/new-york-jets.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-nyj {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/jets.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-nyj {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/jets.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-nyj {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/jets.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-nyj {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/jets.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-nyj {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/jets.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-nyj {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #0C371D, rgba(0, 0, 0, 0)),
+    url("http://a.espncdn.com/photo/2012/0909/ny_jets_bills_10.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-nyj {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #0C371D, rgba(0, 0, 0, 0)),
+    url("https://images.forbes.com/media/lists/30/2009/new-york-jets.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*OAK*/
+
+#teamstats .recap-away-bg-oak {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #A5ACAF, rgba(0, 0, 0, 0)),
+    url("https://justblogbaby.com/wp-content/uploads/getty-images/2017/09/853342434-oakland-raiders-v-washington-redskins.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-oak {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #A5ACAF, rgba(0, 0, 0, 0)),
+    url("https://justblogbaby.com/wp-content/uploads/getty-images/2017/09/853342434-oakland-raiders-v-washington-redskins.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-oak {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://justblogbaby.com/wp-content/blogs.dir/28/files/2015/12/derek-carr-gabe-jackson-jon-feliciano-nfl-san-diego-chargers-oakland-raiders1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-oak {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/raiders.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-oak {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/raiders.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-oak {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/raiders.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-oak {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/raiders.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-oak {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/raiders.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-oak {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #A5ACAF, rgba(0, 0, 0, 0)),
+    url("https://justblogbaby.com/wp-content/uploads/getty-images/2017/09/853342434-oakland-raiders-v-washington-redskins.jpg.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-oak {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #101820, rgba(0, 0, 0, 0)),
+    url("https://justblogbaby.com/wp-content/blogs.dir/28/files/2015/12/derek-carr-gabe-jackson-jon-feliciano-nfl-san-diego-chargers-oakland-raiders1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*PHI*/
+
+#teamstats .recap-away-bg-phi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("http://www.nflhispano.com/wp-content/uploads/2016/06/Philadelphia-Eagles-Huddle.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-phi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("http://www.nflhispano.com/wp-content/uploads/2016/06/Philadelphia-Eagles-Huddle.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-phi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #004851, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/thumbor/hvnit65JRBO1jW24nh2XdoQjqlc=/173x0:4168x2663/1200x800/filters:focal(173x0:4168x2663)/cdn.vox-cdn.com/uploads/chorus_image/image/53430107/usa-today-9576644.0.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-phi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/eagles.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-phi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/eagles.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-phi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/eagles.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-phi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/eagles.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-phi {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/eagles.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-phi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("http://www.nflhispano.com/wp-content/uploads/2016/06/Philadelphia-Eagles-Huddle.jpeg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-phi {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #004851, rgba(0, 0, 0, 0)),
+    url("https://cdn.vox-cdn.com/thumbor/hvnit65JRBO1jW24nh2XdoQjqlc=/173x0:4168x2663/1200x800/filters:focal(173x0:4168x2663)/cdn.vox-cdn.com/uploads/chorus_image/image/53430107/usa-today-9576644.0.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*PIT*/
+
+#teamstats .recap-away-bg-pit {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("http://www.rantsports.com/nfl/files/2014/06/USATSI_7394192_149008644_lowres.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-pit {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("http://www.rantsports.com/nfl/files/2014/06/USATSI_7394192_149008644_lowres.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-pit {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("https://s1.reutersmedia.net/resources/r/?m=02&d=20170509&t=2&i=1183871866&r=LYNXMPED4819A&w=1280");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-pit {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/steelers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-pit {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/steelers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-pit {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/steelers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-pit {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/steelers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-pit {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/steelers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-pit {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #101820, rgba(0, 0, 0, 0)),
+    url("http://www.rantsports.com/nfl/files/2014/06/USATSI_7394192_149008644_lowres.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-pit {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #FFB81C, rgba(0, 0, 0, 0)),
+    url("https://s1.reutersmedia.net/resources/r/?m=02&d=20170509&t=2&i=1183871866&r=LYNXMPED4819A&w=1280");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*SEA*/
+
+#teamstats .recap-away-bg-sea {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #4DFF00, rgba(0, 0, 0, 0)),
+    url("https://www.cheatsheet.com/wp-content/uploads/2015/06/Seattle-Seahawks.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-sea {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #4DFF00, rgba(0, 0, 0, 0)),
+    url("https://www.cheatsheet.com/wp-content/uploads/2015/06/Seattle-Seahawks.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-sea {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #001433, rgba(0, 0, 0, 0)),
+    url("http://ww2.hdnux.com/photos/51/14/05/10797381/3/920x920.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-sea {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/seahawks.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-sea {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/seahawks.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-sea {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/seahawks.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-sea {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/seahawks.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-sea {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/seahawks.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-sea {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #4DFF00, rgba(0, 0, 0, 0)),
+    url("https://www.cheatsheet.com/wp-content/uploads/2015/06/Seattle-Seahawks.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-sea {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #001433, rgba(0, 0, 0, 0)),
+    url("http://ww2.hdnux.com/photos/51/14/05/10797381/3/920x920.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*TB*/
+
+#teamstats .recap-away-bg-tb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #FF8200, rgba(0, 0, 0, 0)),
+    url("https://static.rukkus.com/images/performer/headshots/tampa-bay-buccaneers-tickets.jpg.870x570_q70_crop-smart_upscale.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-tb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #FF8200, rgba(0, 0, 0, 0)),
+    url("https://static.rukkus.com/images/performer/headshots/tampa-bay-buccaneers-tickets.jpg.870x570_q70_crop-smart_upscale.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-tb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://www.buccaneers.com/assets/images/imported/TB/2014/news/12/article/Huddle12_29_14_1_a.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-tb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/buccaneers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-tb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/buccaneers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-tb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/buccaneers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-tb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/buccaneers.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-tb {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/buccaneers.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-tb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #FF8200, rgba(0, 0, 0, 0)),
+    url("https://static.rukkus.com/images/performer/headshots/tampa-bay-buccaneers-tickets.jpg.870x570_q70_crop-smart_upscale.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-tb {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #C8102E, rgba(0, 0, 0, 0)),
+    url("http://www.buccaneers.com/assets/images/imported/TB/2014/news/12/article/Huddle12_29_14_1_a.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*TEN*/
+
+#teamstats .recap-away-bg-ten {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #4B92DB, rgba(0, 0, 0, 0)),
+    url("https://fansided.com/wp-content/blogs.dir/229/files/2016/09/9503877-derrick-henry-tajae-sharpe-nfl-preseason-tennessee-titans-oakland-raiders-1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-ten {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #4B92DB, rgba(0, 0, 0, 0)),
+    url("https://fansided.com/wp-content/blogs.dir/229/files/2016/09/9503877-derrick-henry-tajae-sharpe-nfl-preseason-tennessee-titans-oakland-raiders-1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-ten {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+    url("https://imagesvc.timeincapp.com/v3/fan/image?url=https://titansized.com/wp-content/uploads/getty-images/2017/07/629165392-denver-broncos-v-tennessee-titans.jpg.jpg&c=sc&w=850&h=560");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-ten {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/titans.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-ten {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/titans.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-ten {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/titans.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-ten {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/titans.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-ten {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/titans.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-ten {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #4B92DB, rgba(0, 0, 0, 0)),
+    url("https://fansided.com/wp-content/blogs.dir/229/files/2016/09/9503877-derrick-henry-tajae-sharpe-nfl-preseason-tennessee-titans-oakland-raiders-1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.matchup-home-bg-ten {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #0C2340, rgba(0, 0, 0, 0)),
+    url("https://imagesvc.timeincapp.com/v3/fan/image?url=https://titansized.com/wp-content/uploads/getty-images/2017/07/629165392-denver-broncos-v-tennessee-titans.jpg.jpg&c=sc&w=850&h=560");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*WAS*/
+
+#teamstats .recap-away-bg-was {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -4px;
+    background: linear-gradient(-90deg, #FFCD00, rgba(0, 0, 0, 0)),
+    url("https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/dc-sports-bog/files/2018/01/Swearinger.jpg&w=480");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+#playerstats .recap-away-bg-was {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    left: -13px;
+    background: linear-gradient(-90deg, #FFCD00, rgba(0, 0, 0, 0)),
+    url("https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/dc-sports-bog/files/2018/01/Swearinger.jpg&w=480");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+}
+
+.recap-home-bg-was {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    right: 15px;
+    background: linear-gradient(90deg, #862633, rgba(0, 0, 0, 0)),
+    url("http://www.rantsports.com/nfl/files/2015/08/skins2-title1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+#teamstats .gc-recapaway-was {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/redskins.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -5px;
+    background-size: cover !important;
+}
+
+#playerstats .gc-recapaway-was {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/redskins.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -200px;
+    left: -15px;
+    background-size: cover !important;
+}
+
+.gc-recaphome-was {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/redskins.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -200px;
+    left: 215px;
+    background-size: cover !important;
+}
+
+.gc-matchupaway-was {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-left-weather-mascot-311x292/night/sunny/redskins.png");
+    width: 250px;
+    height: 200px !important;
+    position: relative;
+    background-position-y: -9px;
+    top: -210px;
+    left: -20px;
+    background-size: cover !important;
+}
+
+.gc-matchuphome-was {
+    background-image: url("http://i.nflcdn.com/static/site/7.5/img/logos/helmet-right-weather-mascot-311x292/night/sunny/redskins.png");
+    width: 250px;
+    height: 200px !important;
+    background-position-y: -9px;
+    position: relative;
+    top: -210px;
+    left: 20px;
+    background-size: cover !important;
+}
+
+.matchup-away-bg-was {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    left: -9px;
+    background: linear-gradient(-90deg, #FFCD00, rgba(0, 0, 0, 0)),
+    url("https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/dc-sports-bog/files/2018/01/Swearinger.jpg&w=480");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px, 0px -10px, 0px 0px;
+} 
+
+.matchup-home-bg-was {
+    position: relative;
+    width: 480px;
+    height: 200px;
+    top: -20px;
+    right: 163px;
+    background: linear-gradient(90deg, #862633, rgba(0, 0, 0, 0)),
+    url("http://www.rantsports.com/nfl/files/2015/08/skins2-title1.jpg");
+    background-size: 100%, 100%, 100%;
+    background-repeat: no-repeat;
+    background-position: -10px 0px, 0px -20px, 0px 2px;
+}
+
+/*OTHERS*/
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap div.header-recap {
+    height: 200px;
+    width: 985px;
+    float: left;
+    clear: left;
+    border: 1px solid #ddd;
+    overflow: visible;
+    position: relative;
+    left: -12px;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .team-info-left {
+    float: left;
+    width: 300px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 20px;
+    overflow: visible;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap div.header-recap .goals-left {
+    float: left;
+    margin-top: 20px;
+    color: #fff;
+    font: 72px/1 NFLEndzoneSlabBold,arial,sans-serif;
+    position: relative;
+    top: -9px;
+    left: 40px;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    width: 105px;
+    border: 1.5px solid #FFF;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .team-info-right {
+    float: right;
+    overflow: visible;
+    width: 300px;
+    height: 60px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap div.header-recap .goals-right {
+    float: right;
+    margin-top: 20px;
+    color: #fff;
+    font: 72px/1 NFLEndzoneSlabBold,arial,sans-serif;
+    text-shadow: 1px 1px 1px #000;
+    position: relative;
+    top: -9px;
+    left: -47px;
+    text-align: center;
+    width: 105px;
+    border: 1.5px solid #FFF;
+}
+
+.gc-matchup-cityname-away {
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: relative;
+    top: -318px;
+    text-align: right;
+    right: -118px;
+    color: #fff;
+    letter-spacing: 15px;
+    text-shadow: 0px 3px 6px #000000;
+}
+
+.gc-recap-cityname-away {
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: relative;
+    top: 100px;
+    text-align: right;
+    right: -220px;
+    color: #fff;
+    letter-spacing: 12px;
+    text-shadow: 0px 3px 6px #000000;
+}
+
+.team-name-bar-away-recap {
+    width: 491px;
+    color: white;
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: 220px;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .team-info-left div.name {
+    float: left;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+    overflow: hidden;
+    width: 170px;
+    text-align: right;
+    font-family: NFLEndzoneSansCondMedium;
+    position: relative;
+    left: -121px;
+    top: -42px;
+}
+
+.gc-matchup-cityname-home {
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: relative;
+    text-align: left;
+    top: -318px;
+    left: -111px;
+    color: #fff;
+    letter-spacing: 15px;
+    text-shadow: 0px 3px 6px #000000;
+}
+
+.gc-recap-cityname-home {
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: relative;
+    text-align: left;
+    top: 100px;
+    left: -210px;
+    color: #fff;
+    letter-spacing: 12px;
+    text-shadow: 0px 3px 6px #000000;
+}
+
+.team-name-bar-home-recap {
+    width: 480px;
+    color: #fff;
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: 220px;
+    right: 230px;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .team-info-right div.name {
+    float: right;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+    overflow: hidden;
+    width: 170px;
+    text-align: left;
+    font-family: NFLEndzoneSansCondMedium;
+    position: relative;
+    right: -119px;
+    top: -42px;
+}
+
+.matchup-name-away {
+    top: -378px !important;
+    left: 5px !important;
+    color: #fff;
+    font-size: 90px !important;
+    overflow: visible !important;
+    width: 405px !important;
+    text-shadow: 0px 3px 6px #000000;
+}
+
+.recap-name-away {
+    top: 35px !important;
+    left: 60px !important;
+    color: #fff;
+    font-size: 90px !important;
+    overflow: visible !important;
+    width: 405px !important;
+    text-shadow: 0px 3px 6px #000000;
+    text-transform: uppercase;
+    text-align: right !important;
+}
+
+.matchup-name-home {
+    top: -378px !important;
+    left: -141px;
+    color: #fff !important;
+    font-size: 90px !important;
+    overflow: visible !important;
+    width: 275px !important;
+    text-shadow: 0px 3px 6px #000000;
+}
+
+.recap-name-home {
+    top: 35px !important;
+    left: -214px !important;
+    color: #fff !important;
+    font-size: 90px !important;
+    overflow: visible !important;
+    width: 275px !important;
+    text-shadow: 0px 3px 6px #000000;
+    text-transform: uppercase;
+}
+
+.stats-spacing {
+    margin: 28px 0px 0px 0px;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .info-row {
+    height: 25px;
+    width: 50%;
+    float: left;
+    font-size: 16px;
+}
+
+.stats-border {
+    border-bottom: 1px solid #ccc;
+}
+
+.player-stats-list {
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .info-row.title1 {
+    background: #e6e6e6;
+    font-weight: bold;
+    color: #313131;
+    width: 478px;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .info-row.title2 {
+    background: #fafafa;
+    width: 478px;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .listStatsContainer {
+    float: left;
+    width: 478px;
+    overflow: hidden;
+}
+
+div.eas-plugin-ccmGamePlugin-widget-ccmGameRecap .big {
+    width: 478px;
+}
+
+.header-matchup {
+    height: 200px;
+}
+
+.team-name-bar-away-matchup {
+    width: 478px;
+    color: white;
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: -188px;
+    left: -20px;
+}
+
+.team-name-bar-home-matchup {
+    width: 478px;
+    color: #fff;
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: -188px;
+    right: 160px;
+}
+
+.matchup-at {
+    background: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/game-details-at.png);
+    width: 75px;
+    background-repeat: no-repeat;
+    height: 50px;
+    position: relative;
+    top: -140px;
+    left: -200px;
+}
+
+#gamesummary .row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h1.cfm-player-name.recap-name-away span {
+    font-size: 72px;
+    position: absolute;
+    left: 300px;
+    top: -100px;
+    width: 100px !important;
+    text-align: center;
+    border: 1.5px solid #FFF;
+}
+
+h1.cfm-player-name.recap-name-home span {
+    font-size: 72px;
+    position: absolute;
+    right: 170px;
+    top: -100px;
+    width: 100px !important;
+    text-align: center;
+    border: 1.5px solid #FFF;
+}
+
+.cfm-player-info.away strong {
+    position: relative;
+    top: -130px;
+    left: 270px;
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 18px;
+    text-shadow: 2px 2px #000000;
+}
+
+.cfm-player-info.home strong {
+    position: relative;
+    top: -130px;
+    left: -140px;
+    font-family: NFLEndzoneSansCondMedium;
+    font-size: 18px;
+    text-shadow: 2px 2px #000000;
+}

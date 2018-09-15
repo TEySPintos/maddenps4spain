@@ -1,0 +1,445 @@
+<div id="leaguefooters">
+	<style type="text/css">
+		#powerrankings .data-table1 thead {
+			display: none;
+		}
+
+		#powerrankings td {
+			text-align: center;
+		}
+
+		#transactions .data-table1 thead {
+			display: none;
+		}
+
+		/*Histórico*/
+		.superbowls {
+			text-align: center;
+			width: 99%;
+			margin: 5px;
+			border: 2px #b9302b solid;
+			background-color: #000000;
+			float: left;
+		}
+		.superbowlsCabecera {
+			border-bottom: 2px #b9302b solid;
+			background-image: url("http://i.nflcdn.com/static/site/7.5/img/header-2012/nav-bg.png");
+			background-repeat: repeat-x;
+			text-transform: uppercase;
+			color: #000000 !important;
+			text-shadow: 1px 1px #ffffff !important;
+			font-size: 27px;
+		}
+
+		.superbowlsContenido img {
+			/*float: left;*/
+			margin: 3.5px;
+		}
+	</style>
+
+	<script>
+	$(document).ready(function(){
+			moveProgressBar();
+		$(".noticiasBloque > div:gt(0)").hide();setInterval(function() {
+		$('.noticiasBloque > div:first')
+		.hide()
+		.next()
+		.show()
+		.end()
+		.appendTo('.noticiasBloque');
+		
+		moveProgressBar();
+		}, 20000);
+
+		function moveProgressBar() {
+			$('.progress-bar').removeAttr("style");
+		    var getPercent = ($('.progress-wrap').data('progress-percent') / 100);
+		    var getProgressWrapWidth = 688.28;//$('.progress-wrap').width();
+		    var progressTotal = getPercent * getProgressWrapWidth;
+		    var animationLength = 20000;
+		    
+		    // on page load, animate percentage bar to data percentage length
+		    // .stop() used to prevent animation queueing
+		    $('.progress-bar').stop().animate({
+		        left: progressTotal
+		    }, animationLength);
+	    };
+
+	    $('#yui_3_10_3_1_1506177391289_1297').click(function(){
+	    	$('#yui_3_10_3_1_1506177391289_1294').removeClass('current');
+	    	$('#yui_3_10_3_1_1506177391289_1297').addClass('current');
+	    	$('.schedules-list-content-carousel.yui3-widget.schedules-list-content-carousel-content.yui3-sched-scrollview-content').attr('style','width: 320px; transform: translate(-322px, 0px) translateZ(0px);');
+	    });
+	    $('#yui_3_10_3_1_1506177391289_1294').click(function(){
+	    	$('#yui_3_10_3_1_1506177391289_1297').removeClass('current');
+	    	$('#yui_3_10_3_1_1506177391289_1294').addClass('current');
+	    	$('.schedules-list-content-carousel.yui3-widget.schedules-list-content-carousel-content.yui3-sched-scrollview-content').attr('style','width: 320px; transform: translate(0px, 0px) translateZ(0px);');
+	    });
+		$('.afc .data-table1 tbody td:nth-child(5n)').remove();
+		$('.nfc .data-table1 tbody td:nth-child(5n)').remove();
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/1.png"]').replaceWith('<img src="/img/nfl/teams/left/1.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/CIN">Cincinnati Bengals</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/2.png"]').replaceWith('<img src="/img/nfl/teams/left/2.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/BUF">Buffalo Bills</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/3.png"]').replaceWith('<img src="/img/nfl/teams/left/3.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/DEN">Denver Broncos</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/4.png"]').replaceWith('<img src="/img/nfl/teams/left/4.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/CLE">Cleveland Browns</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/5.png"]').replaceWith('<img src="/img/nfl/teams/left/5.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/TB">Tampa Bay Buccaneers</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/6.png"]').replaceWith('<img src="/img/nfl/teams/left/6.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/ARI">Arizona Cardinals</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/7.png"]').replaceWith('<img src="/img/nfl/teams/left/7.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/LAC">Los Angeles Chargers</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/8.png"]').replaceWith('<img src="/img/nfl/teams/left/8.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/KC">Kansas City Chiefs</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/9.png"]').replaceWith('<img src="/img/nfl/teams/left/9.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/IND">Indianapolis Colts</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/10.png"]').replaceWith('<img src="/img/nfl/teams/left/10.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/DAL">Dallas Cowboys</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/11.png"]').replaceWith('<img src="/img/nfl/teams/left/11.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/MIA">Miami Dolphins</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/12.png"]').replaceWith('<img src="/img/nfl/teams/left/12.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/PHI">Philidelphia Eagles</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/13.png"]').replaceWith('<img src="/img/nfl/teams/left/13.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/ATL">Atlanta Falcons</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/14.png"]').replaceWith('<img src="/img/nfl/teams/left/14.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/SF">San Francisco 49ers</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/15.png"]').replaceWith('<img src="/img/nfl/teams/left/15.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/NYG">New York Giants</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/16.png"]').replaceWith('<img src="/img/nfl/teams/left/16.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/JAC">Jacksonville Jaguars</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/17.png"]').replaceWith('<img src="/img/nfl/teams/left/17.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/NYJ">New York Jets</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/18.png"]').replaceWith('<img src="/img/nfl/teams/left/18.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/DET">Detroit Lions</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/19.png"]').replaceWith('<img src="/img/nfl/teams/left/19.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/GB">Green Bay Packers</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/20.png"]').replaceWith('<img src="/img/nfl/teams/left/20.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/CAR">Carolina Panthers</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/21.png"]').replaceWith('<img src="/img/nfl/teams/left/21.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/NE">New England Patriots</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/22.png"]').replaceWith('<img src="/img/nfl/teams/left/22.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/OAK">Oakland Raiders</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/23.png"]').replaceWith('<img src="/img/nfl/teams/left/23.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/LAR">Los Angeles Rams</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/24.png"]').replaceWith('<img src="/img/nfl/teams/left/24.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/BAL">Baltimore Ravens</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/25.png"]').replaceWith('<img src="/img/nfl/teams/left/25.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/WAS">Washington Redskins</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/26.png"]').replaceWith('<img src="/img/nfl/teams/left/26.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/NO">New Orleans Saints</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/27.png"]').replaceWith('<img src="/img/nfl/teams/left/27.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/SEA">Seattle Seahawks</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/28.png"]').replaceWith('<img src="/img/nfl/teams/left/28.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/PIT">Pittsburgh Steelers</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/29.png"]').replaceWith('<img src="/img/nfl/teams/left/29.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/TEN">Tennessee Titans</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/30.png"]').replaceWith('<img src="/img/nfl/teams/left/30.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/MIN">Minnesota Vikings</a>');
+		$('#afc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/31.png"]').replaceWith('<img src="/img/nfl/teams/left/31.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/HOU">Houston Texans</a>');
+		$('#nfc-playoff-container .data-table1 tbody td img[src="/img/nfl/teams/left/0.png"]').replaceWith('<img src="/img/nfl/teams/left/0.png" width="20" height="20"></img><a href="http://daddyleagues.com/maddenps4spain/team/CHI">Chicago Bears</a>');
+		$('table').removeClass('table-striped');
+
+		$('.pasadores .titulo').click(function(){
+		 	$('.pasadoresFondo').slideUp('normal');
+
+	    	if($(this).next().is(':hidden') == true) {
+	    		$('.pasadoresFoto .foto').attr('src', $('.pasadoresFoto .foto img').attr('src'));
+				$('.pasadoresFoto .sobre').attr('src', $('.pasadoresFoto .sobre img').attr('src'));
+			  	$(this).next().slideDown('normal');
+	  		} 
+		});
+		$('.pasadoresFondo').hide();
+		setTimeout(function(){$('.pasadores .titulo').trigger("click");}, 3000);
+
+		$('.corredores .titulo').click(function(){
+		 	$('.corredoresFondo').slideUp('normal');
+
+	    	if($(this).next().is(':hidden') == true) {
+	    		$('.corredoresFoto .foto').attr('src', $('.corredoresFoto .foto img').attr('src'));
+				$('.corredoresFoto .sobre').attr('src', $('.corredoresFoto .sobre img').attr('src'));
+			  	$(this).next().slideDown('normal');
+	  		} 
+		});
+		$('.corredoresFondo').hide();
+		setTimeout(function(){$('.corredores .titulo').trigger("click");}, 3000);
+
+		$('.receptores .titulo').click(function(){
+		 	$('.receptoresFondo').slideUp('normal');
+
+	    	if($(this).next().is(':hidden') == true) {
+	    		$('.receptoresFoto .foto').attr('src', $('.receptoresFoto .foto img').attr('src'));
+				$('.receptoresFoto .sobre').attr('src', $('.receptoresFoto .sobre img').attr('src'));
+			  	$(this).next().slideDown('normal');
+	  		} 
+		});
+		$('.receptoresFondo').hide();
+		setTimeout(function(){$('.receptores .titulo').trigger("click");}, 3000);
+
+		$('.interceptados .titulo').click(function(){
+		 	$('.interceptadosFondo').slideUp('normal');
+
+	    	if($(this).next().is(':hidden') == true) {
+	    		$('.interceptadosFoto .foto').attr('src', $('.interceptadosFoto .foto img').attr('src'));
+				$('.interceptadosFoto .sobre').attr('src', $('.interceptadosFoto .sobre img').attr('src'));
+			  	$(this).next().slideDown('normal');
+	  		} 
+		});
+		$('.interceptadosFondo').hide();
+		setTimeout(function(){$('.interceptados .titulo').trigger("click");}, 3000);
+
+		$('.placadores .titulo').click(function(){
+		 	$('.placadoresFondo').slideUp('normal');
+
+	    	if($(this).next().is(':hidden') == true) {
+	    		$('.placadoresFoto .foto').attr('src', $('.placadoresFoto .foto img').attr('src'));
+				$('.placadoresFoto .sobre').attr('src', $('.placadoresFoto .sobre img').attr('src'));
+			  	$(this).next().slideDown('normal');
+	  		} 
+		});
+		$('.placadoresFondo').hide();
+		setTimeout(function(){$('.placadores .titulo').trigger("click");}, 3000);
+
+		$('.interceptadores .titulo').click(function(){
+		 	$('.interceptadoresFondo').slideUp('normal');
+
+	    	if($(this).next().is(':hidden') == true) {
+	    		$('.interceptadoresFoto .foto').attr('src', $('.interceptadoresFoto .foto img').attr('src'));
+				$('.interceptadoresFoto .sobre').attr('src', $('.interceptadoresFoto .sobre img').attr('src'));
+			  	$(this).next().slideDown('normal');
+	  		} 
+		});
+		$('.interceptadoresFondo').hide();
+		setTimeout(function(){$('.interceptadores .titulo').trigger("click");}, 3000);
+
+		$('.saqueadores .titulo').click(function(){
+		 	$('.saqueadoresFondo').slideUp('normal');
+
+	    	if($(this).next().is(':hidden') == true) {
+	    		$('.saqueadoresFoto .foto').attr('src', $('.saqueadoresFoto .foto img').attr('src'));
+				$('.saqueadoresFoto .sobre').attr('src', $('.saqueadoresFoto .sobre img').attr('src'));
+			  	$(this).next().slideDown('normal');
+	  		} 
+		});
+		$('.saqueadoresFondo').hide();
+		setTimeout(function(){$('.saqueadores .titulo').trigger("click");}, 4000);
+		
+		$('#youtubeW1').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW1').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(0px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-563px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW3').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW3').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-1126px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW4').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW4').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-1689px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW5').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW5').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-2252px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW6').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW6').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-2815px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW7').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW7').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-3379px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW8').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW8').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-3943px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW9').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW9').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-4507px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW10').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW10').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-5071px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW11').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW11').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-5635px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW12').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW12').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-6199px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW13').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW13').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-6763px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW14').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW14').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-7327px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW15').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW15').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-7891px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW16').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW16').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-8455px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW17').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW17').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-9019px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeWC').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeWC').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-9583px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeDR').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeDR').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-10147px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeCR').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeCR').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-10711px, 0px) translateZ(0px);');
+	    });	
+	    $('#youtubeSB').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeSB').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-11275px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW1S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW1S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-11839px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW2S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW2S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-12403px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW3S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW3S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-12967px, 0px) translateZ(0px);');
+	    });	
+	    $('#youtubeW4S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW4S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-13531px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW5S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW5S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-14095px, 0px) translateZ(0px);');
+	    });						    
+	    $('#youtubeW6S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW6S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-14659px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW7S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW7S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-15223px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW8S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW8S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-15787px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW9S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW9S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-16351px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW10S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW10S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-16915px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW11S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW11S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-17479px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW12S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW12S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-18043px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW13S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW13S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-18607px, 0px) translateZ(0px);');
+	    });	
+	    $('#youtubeW14S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW14S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-19171px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW15S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW15S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-19735px, 0px) translateZ(0px);');
+	    });
+	    $('#youtubeW16S2').click(function(){
+	    	$('#youtubeBotonesLista>li').removeClass('current');
+	    	$('#youtubeBotonesListaS2>li').removeClass('current');
+	    	$('#youtubeW16S2').addClass('current');
+	    	$('.youtubeContenido').attr('style','width: 560px; transform: translate(-20299px, 0px) translateZ(0px);');
+	    });							
+	})
+	</script>
+
+	<div class="superbowls">
+	    <div class="superbowlsCabecera">
+	      <p>Superbowl Champions</p>
+	    </div>
+	    <div class="superbowlsContenido">
+	    	<img width="150" src="http://fotos.subefotos.com/9c5b556a0921034a35c0df8343b6742co.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/8e239e0e7323e2a2a0de0afa83ed8ea4o.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/204357b71c6a975148f84bc5901d05dfo.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/eabf7334fd0ea6276120c77d5a84391ao.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/4b16bf4ae601f45661c06e785c286684o.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/76eb5c4107b2c9235d074d16b893ac82o.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/e7b5d0344d0d1d64f314791d2315fd7ao.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/e9f9092e2c63d94cd9c63963892c4612o.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/cd3c62fbd0aab23045de0e6ef054f499o.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/e81c8e6063b66f943b83a963febb5a29o.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/99b5104aa2e98a5946aaa5e31fe5153ao.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/9d9724ac6b64770c7c2b9af81792ccfco.png" />
+	    	<img width="150" src="http://fotos.subefotos.com/9f7204e3c9a920db1b7fd450890cd084o.png" />
+	    	<!--https://fotos.subefotos.com/ccdfa3ef764b158ee90b820b4bd73629o.png Chiefs-->
+	    	<!--80x99 y 247x322-->
+	    </div>
+	</div>	    
+</div>
