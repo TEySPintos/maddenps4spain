@@ -3,7 +3,7 @@ marquee {
 	background-image: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png);
 }
 /*Cuerpo y resto*/
-body {
+.layout-cfm {
 	background-image:url('http://fotos.subefotos.com/e1fb042c66f688f073c65789ad1479c6o.jpg');
 	background-repeat:repeat; 
 	background-attachment:fixed; 
